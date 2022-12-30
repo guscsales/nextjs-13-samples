@@ -1,6 +1,6 @@
-# NextJS - Explicação da Pasta "app"
+# NextJS 13 - Testes das Funcionalidades.
 
-Projeto com o conteúdo executado no vídeo onde eu explico como funciona a pasta "app".
+Nesse projeto eu faço vários testes com as novas funcionalidades do Next.js versão 13, e estou documentando tudo isso em vídeo, links abaixo.
 
 Como usar:
 
@@ -13,6 +13,6 @@ O projeto será executado em `http://localhost:3000`.
 
 ## Conteúdo no YouTube
 
-Você pode conferir o processo de criação aqui no vídeo:
+Aqui estão os vídeos relacionados (Vou adicionando mais conforme for criando):
 
-- [Como Usar a Pasta "app" do NextJS Versão 13 - Link TBD]()
+- [Como Usar a Pasta "app" no Next.js 13 - Layout, Pages, Rotas e Mais](https://youtu.be/hlZ_qZvL3e8)
