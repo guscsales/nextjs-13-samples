@@ -1,5 +1,13 @@
 import OtherUsers from '../components/other-users';
 import { getUserById } from '../services/get-user-by-id';
+import { getUsers } from '../services/get-users';
+
+export async function generateStaticParams() {
+  const users = await getUsers();
+  const usersIds = users.map((user) => ({ userId: user.id.toString() }));
+
+  return usersIds;
+}
 
 export default async function UserDetailsPage({
   params,
