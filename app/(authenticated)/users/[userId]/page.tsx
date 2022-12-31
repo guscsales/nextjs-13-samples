@@ -23,6 +23,8 @@ export default async function UserDetailsPage({
       </h2>
       <span>{user.email}</span>
       <hr />
+      {user.body}
+      <hr />
       <h2>Outros Usuários</h2>
       <OtherUsers currentUserId={params.userId} />
     </>
