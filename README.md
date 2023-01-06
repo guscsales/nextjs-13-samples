@@ -16,3 +16,4 @@ O projeto será executado em `http://localhost:3000`.
 Aqui estão os vídeos relacionados (Vou adicionando mais conforme for criando):
 
 - [Como Usar a Pasta "app" no Next.js 13 - Layout, Pages, Rotas e Mais](https://youtu.be/hlZ_qZvL3e8)
+- [A Nova Forma de Geração Estática do Next js (SSG e ISG)](https://www.youtube.com/watch?v=zQICkvPQTfo)
